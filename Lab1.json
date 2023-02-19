@@ -1,0 +1,24 @@
+[
+    {
+    "name":{
+        "first":"Khaled",
+        "last":"Alfawaz"
+    },
+    "roomName":7,
+    "bookingDateFrom":"12/5/2022",
+    "bookingDateTo":"12/5/2022",
+    "paid":false,
+    "attended":true
+    },
+    {
+    "name":{
+            "first":"Khaled",
+            "last":"Alfawaz"
+        },
+        "roomName":5,
+        "bookingDateFrom":"12/5/2022",
+        "bookingDateTo":"12/5/2022",
+        "paid":false,
+        "attended":true
+    }
+]
